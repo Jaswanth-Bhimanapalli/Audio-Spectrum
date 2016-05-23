@@ -1,1 +1,1 @@
-# Audio-Spectrum
+# Spread Spectrum Audio Visualizer
